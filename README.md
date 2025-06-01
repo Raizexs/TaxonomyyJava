@@ -24,7 +24,9 @@ Formato del Archivo de Ítems
 
 El archivo de ítems es un .txt donde cada línea es un ítem, con campos separados por ;.
 
-Estructura: Tipo;Nivel_Bloom;Enunciado;Opciones|Separadas|Por|Barra;Respuesta_Correcta;Tiempo_Estimado_Minutos/Segundos
+Estructura
+
+Tipo;Nivel_Bloom;Enunciado;Opciones|Separadas|Por|Barra;Respuesta_Correcta;Tiempo_Estimado_Minutos/Segundos
 
 Ejemplo:
 
